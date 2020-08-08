@@ -1,0 +1,86 @@
+[
+  {
+    "foodName": "Tinola 1 Oder",
+    "price": "370.00",
+    "description": "This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "tinola.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+
+  {
+    "foodName": "Tinola 1/2 Oder",
+    "price": "200.00",
+    "description": "This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "tinola.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+
+  {
+    "foodName": "Linagpang 1 Oder",
+    "price": "370.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "tinola.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+
+  {
+    "foodName": "Linagpang 1/2 Oder",
+    "price": "200.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "tinola.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+
+  {
+  "foodName": "Adobo 1 Oder",
+  "price": "370.00",
+  "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+  "imgPath": "adobo.png",
+  "ratings": "10",
+  "comments": "affordable food"
+},
+  {
+    "foodName": "Adobo 1/2 Oder",
+    "price": "200.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "adobo.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+  ,{
+  "foodName": "Buttered Chicken 1 Oder",
+  "price": "360.00",
+  "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+  "imgPath": "fried.png",
+  "ratings": "10",
+  "comments": "affordable food"
+},
+  {
+    "foodName": "Buttered Chicken 1/2 Oder",
+    "price": "200.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "fried.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+  {
+    "foodName": "Garlic Chicken 1 Oder",
+    "price": "370.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "fried.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  },
+  {
+    "foodName": "Garlic Chicken 1/2 Oder",
+    "price": "200.00",
+    "description": "If you love ginger then this Chicken Tinola is for you. A simple everyday Filipino soup that is very healthy and flavorful.  This Tinola recipe is made with chicken, ginger, garlic, onion, fish sauce, chayote, red chili leaves, and with lemongrass.",
+    "imgPath": "fried.png",
+    "ratings": "10",
+    "comments": "affordable food"
+  }
+]
